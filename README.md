@@ -1,7 +1,7 @@
+**Description**
 This repository contains a personal homepage created by Janhavi Gavali, a Computer Science student at Queen Mary University of London. The website serves as an online portfolio, showcasing information about Janhavi, her hobbies, a link to her CV, and a list of her favorite movies.
 
-Repository Contents
-
+**Repository Contents**
 The repository includes the following files:
 
 •
@@ -25,12 +25,10 @@ three-paragraphs.html: A simple HTML file containing three paragraphs of text.
 •
 me.jpg: An image of Janhavi Gavali, used on the homepage.
 
-How to View the Project
-
+**How to View the Project**
 To view this project locally, simply download or clone the repository and open the my_homepage.html file in your web browser. The website is designed to be static and can be hosted on any web server or viewed directly from your file system.
 
-Author
-
+**Author**
 Janhavi Gavali
 Computer Science Student
 
